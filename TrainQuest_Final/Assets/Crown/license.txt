@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cat King
+* source:	https://sketchfab.com/3d-models/cat-king-313a3cb2c7864ac392287bf2b65d8646
+* author:	Paris Mutter (https://sketchfab.com/octrpus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cat King" (https://sketchfab.com/3d-models/cat-king-313a3cb2c7864ac392287bf2b65d8646) by Paris Mutter (https://sketchfab.com/octrpus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

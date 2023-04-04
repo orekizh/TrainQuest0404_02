@@ -1,0 +1,4 @@
+#Tue Mar 28 19:48:21 EDT 2023
+base.0=C\:\\Users\\xth94\\Documents\\GitHub\\TrainQuest\\TrainQuest_Final\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

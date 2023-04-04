@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Track5" size="0.300000 0.420131" />
+    <ImageTarget name="Track4" size="0.300000 0.420131" />
+    <ImageTarget name="Track3" size="0.300000 0.420131" />
+    <ImageTarget name="Track2" size="0.300000 0.420131" />
+    <ImageTarget name="Track1" size="0.300000 0.420131" />
+    <ImageTarget name="Track" size="0.330000 0.462000" />
+    <ImageTarget name="Saboteur05" size="0.330000 0.462000" />
+    <ImageTarget name="Saboteur04" size="0.330000 0.462000" />
+    <ImageTarget name="Saboteur03" size="0.330000 0.462000" />
+    <ImageTarget name="Saboteur02" size="0.330000 0.462000" />
+    <ImageTarget name="Saboteur01" size="0.330000 0.462000" />
+    <ImageTarget name="Other_1" size="0.330000 0.462000" />
+    <ImageTarget name="Driver05" size="0.330000 0.462000" />
+    <ImageTarget name="Driver04" size="0.330000 0.462000" />
+    <ImageTarget name="Driver03" size="0.330000 0.462000" />
+    <ImageTarget name="Driver02" size="0.330000 0.462000" />
+    <ImageTarget name="Driver01" size="0.330000 0.462000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/GameRound1.unity
+    guid: d1d7f8256f60645988ce133e51f2d9f7
+  - enabled: 0
+    path: Assets/Scenes/GameRound2.unity
+    guid: d32c5cd2d53214808b834fb5dad9e685
+  - enabled: 0
+    path: Assets/Scenes/GameRound3.unity
+    guid: f1fb29c67f2ef4fcf8d64987037c53f4
+  - enabled: 0
+    path: Assets/Scenes/GameRound4.unity
+    guid: d1699076226084c7589479a5e6d70a84
+  - enabled: 0
+    path: Assets/Scenes/YouWin.unity
+    guid: 33702adea861b4889afda932af4a8509
+  - enabled: 0
+    path: Assets/Scenes/GameOver.unity
+    guid: 94fba32f213924486b1fd078db15a4a0
+  - enabled: 0
+    path: Assets/TrainQuest_Final.unity
+    guid: 16736f661f2658e41b7acaca478006a8
+  m_configObjects: {}

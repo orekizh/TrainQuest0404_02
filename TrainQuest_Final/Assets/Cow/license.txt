@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dairy Cow (low poly)
+* source:	https://sketchfab.com/3d-models/dairy-cow-low-poly-253c3a01044b4cfeab94ecf316790043
+* author:	Nyilonelycompany (https://sketchfab.com/Nyilonelycompany)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dairy Cow (low poly)" (https://sketchfab.com/3d-models/dairy-cow-low-poly-253c3a01044b4cfeab94ecf316790043) by Nyilonelycompany (https://sketchfab.com/Nyilonelycompany) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

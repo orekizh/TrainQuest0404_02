@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cartoon kids
+* source:	https://sketchfab.com/3d-models/cartoon-kids-16bd67d620a846b7abb9dfdbb3534f05
+* author:	Ivan Norman (https://sketchfab.com/vanidza)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cartoon kids" (https://sketchfab.com/3d-models/cartoon-kids-16bd67d620a846b7abb9dfdbb3534f05) by Ivan Norman (https://sketchfab.com/vanidza) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
