@@ -26,7 +26,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/GameOver.unity
     guid: 94fba32f213924486b1fd078db15a4a0
-  - enabled: 0
+  - enabled: 1
     path: Assets/TrainQuest_Final.unity
     guid: 16736f661f2658e41b7acaca478006a8
+  - enabled: 1
+    path: Assets/UI/Start.unity
+    guid: 5e32213bf08f308429e91c1707d918b9
+  - enabled: 1
+    path: Assets/UI/Role.unity
+    guid: 18e2ed669de136249bbb889d9339effd
   m_configObjects: {}

@@ -354,13 +354,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/VuforiaEditorScripts.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/VuforiaScripts.ref.dll"
-"Assets/Scenes/GameRound1.cs"
-"Assets/Scenes/GameRound2.cs"
-"Assets/Scenes/GameRound3.cs"
-"Assets/Scenes/GameRound4.cs"
-"Assets/Scenes/GameRound5.cs"
 "Assets/Scenes/StartGame.cs"
-"Assets/Scenes/YouWIn.cs"
 "Assets/Script/MoveTrain.cs"
 "Assets/Script/MovingTrain.cs"
 "Assets/Script/TargetHandlers.cs"
@@ -399,6 +393,8 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
+"Assets/UI/Start.cs"
+"Assets/UI/StartG.cs"
 -langversion:9.0
 
 /deterministic

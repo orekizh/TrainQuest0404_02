@@ -24,7 +24,7 @@ public class MoveTrain : MonoBehaviour
         if (move == true)
             transform.position = Vector3.MoveTowards(transform.position,
                 target, 0.1f * Time.deltaTime);
-        countUI.text = count.ToString();
+        //countUI.text = count.ToString();
     }
     public void TargetFound()
     {
