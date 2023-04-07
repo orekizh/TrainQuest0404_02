@@ -39729,13 +39729,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Track5
+  mTrackableName: Track05
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Prototype2.xml
-  mAspectRatio: 1.4004366
+  mAspectRatio: 1.4
   mImageTargetType: 0
-  mWidth: 0.3
-  mHeight: 0.420131
+  mWidth: 0.33
+  mHeight: 0.462
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -39769,11 +39769,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTrain: {fileID: 278288331}
-  Panel_1: {fileID: 0}
-  Panel_2: {fileID: 0}
-  Panel_3: {fileID: 0}
-  Panel_4: {fileID: 0}
-  Panel_5: {fileID: 0}
+  Panel_1: {fileID: 928105093}
+  Panel_2: {fileID: 2049215932}
+  Panel_3: {fileID: 939997351}
+  Panel_4: {fileID: 1986640776}
+  Panel_5: {fileID: 17003106}
 --- !u!114 &784018256
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39788,7 +39788,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 784018252}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Track5
+  mTargetName: Track05
   mDatasetName: Vuforia/Prototype2.xml
   mCastedBehaviour: {fileID: 784018252}
   mMeshFilter: {fileID: 0}
@@ -44924,13 +44924,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Track1
+  mTrackableName: Track01
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Prototype2.xml
-  mAspectRatio: 1.4004366
+  mAspectRatio: 1.4
   mImageTargetType: 0
-  mWidth: 0.3
-  mHeight: 0.420131
+  mWidth: 0.33
+  mHeight: 0.462
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -44968,7 +44968,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 904507538}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Track1
+  mTargetName: Track01
   mDatasetName: Vuforia/Prototype2.xml
   mCastedBehaviour: {fileID: 904507538}
   mMeshFilter: {fileID: 0}
@@ -45834,13 +45834,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Track2
+  mTrackableName: Track02
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Prototype2.xml
-  mAspectRatio: 1.4004366
+  mAspectRatio: 1.4
   mImageTargetType: 0
-  mWidth: 0.3
-  mHeight: 0.420131
+  mWidth: 0.33
+  mHeight: 0.462
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -45874,11 +45874,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTrain: {fileID: 278288331}
-  Panel_1: {fileID: 0}
-  Panel_2: {fileID: 0}
-  Panel_3: {fileID: 0}
-  Panel_4: {fileID: 0}
-  Panel_5: {fileID: 0}
+  Panel_1: {fileID: 928105093}
+  Panel_2: {fileID: 2049215932}
+  Panel_3: {fileID: 939997351}
+  Panel_4: {fileID: 1986640776}
+  Panel_5: {fileID: 17003106}
 --- !u!114 &1115630322
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45893,7 +45893,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1115630318}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Track2
+  mTargetName: Track02
   mDatasetName: Vuforia/Prototype2.xml
   mCastedBehaviour: {fileID: 1115630318}
   mMeshFilter: {fileID: 0}
@@ -46384,13 +46384,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Track4
+  mTrackableName: Track04
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Prototype2.xml
-  mAspectRatio: 1.4004366
+  mAspectRatio: 1.4
   mImageTargetType: 0
-  mWidth: 0.3
-  mHeight: 0.420131
+  mWidth: 0.33
+  mHeight: 0.462
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -46424,11 +46424,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTrain: {fileID: 278288331}
-  Panel_1: {fileID: 0}
-  Panel_2: {fileID: 0}
-  Panel_3: {fileID: 0}
-  Panel_4: {fileID: 0}
-  Panel_5: {fileID: 0}
+  Panel_1: {fileID: 928105093}
+  Panel_2: {fileID: 2049215932}
+  Panel_3: {fileID: 939997351}
+  Panel_4: {fileID: 1986640776}
+  Panel_5: {fileID: 17003106}
 --- !u!114 &1618307421
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46443,7 +46443,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1618307417}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Track4
+  mTargetName: Track04
   mDatasetName: Vuforia/Prototype2.xml
   mCastedBehaviour: {fileID: 1618307417}
   mMeshFilter: {fileID: 0}
@@ -51477,13 +51477,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Track3
+  mTrackableName: Track03
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Prototype2.xml
-  mAspectRatio: 1.4004366
+  mAspectRatio: 1.4
   mImageTargetType: 0
-  mWidth: 0.3
-  mHeight: 0.420131
+  mWidth: 0.33
+  mHeight: 0.462
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -51517,11 +51517,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myTrain: {fileID: 278288331}
-  Panel_1: {fileID: 0}
-  Panel_2: {fileID: 0}
-  Panel_3: {fileID: 0}
-  Panel_4: {fileID: 0}
-  Panel_5: {fileID: 0}
+  Panel_1: {fileID: 928105093}
+  Panel_2: {fileID: 2049215932}
+  Panel_3: {fileID: 939997351}
+  Panel_4: {fileID: 1986640776}
+  Panel_5: {fileID: 17003106}
 --- !u!114 &1711364264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51536,7 +51536,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1711364260}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Track3
+  mTargetName: Track03
   mDatasetName: Vuforia/Prototype2.xml
   mCastedBehaviour: {fileID: 1711364260}
   mMeshFilter: {fileID: 0}
@@ -52193,7 +52193,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1986640776}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 10.8, y: 19.2, z: 1}
   m_ConstrainProportionsScale: 0
