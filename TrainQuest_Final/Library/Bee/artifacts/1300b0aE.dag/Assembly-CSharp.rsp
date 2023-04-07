@@ -393,6 +393,7 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
+"Assets/UI/ScanCardTran.cs"
 "Assets/UI/Start.cs"
 "Assets/UI/StartG.cs"
 -langversion:9.0

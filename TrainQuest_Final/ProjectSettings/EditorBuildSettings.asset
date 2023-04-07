@@ -9,30 +9,33 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/GameRound1.unity
+    path: 
     guid: d1d7f8256f60645988ce133e51f2d9f7
   - enabled: 0
-    path: Assets/Scenes/GameRound2.unity
+    path: 
     guid: d32c5cd2d53214808b834fb5dad9e685
   - enabled: 0
-    path: Assets/Scenes/GameRound3.unity
+    path: 
     guid: f1fb29c67f2ef4fcf8d64987037c53f4
   - enabled: 0
-    path: Assets/Scenes/GameRound4.unity
+    path: 
     guid: d1699076226084c7589479a5e6d70a84
   - enabled: 0
-    path: Assets/Scenes/YouWin.unity
+    path: 
     guid: 33702adea861b4889afda932af4a8509
   - enabled: 0
-    path: Assets/Scenes/GameOver.unity
+    path: 
     guid: 94fba32f213924486b1fd078db15a4a0
+  - enabled: 1
+    path: Assets/ScanCard.unity
+    guid: 7197885a8a0091f4d860847b13f3b7cb
   - enabled: 1
     path: Assets/TrainQuest_Final.unity
     guid: 16736f661f2658e41b7acaca478006a8
   - enabled: 1
-    path: Assets/UI/Start.unity
+    path: Assets/Start.unity
     guid: 5e32213bf08f308429e91c1707d918b9
   - enabled: 1
-    path: Assets/UI/Role.unity
+    path: Assets/Role.unity
     guid: 18e2ed669de136249bbb889d9339effd
   m_configObjects: {}
