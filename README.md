@@ -1,2 +1,14 @@
-# TrainQuest_0404
- 
+# TRAIN QUEST
+## DG8010 New Frontiers: AR/VR in practice in Master of Digital Media at Toronto Metropolitan University
+
+### Fizza Ahmed, Runyi Guo, Zoey Li, Kaiwei Zheng, Wenyue Zheng, Yueming Zheng
+
+Train Quest is an engaging and turn-based AR card game. The game puts the two players as the driver or the saboteur, with the driver trying to improve the customer experience (happiness) while the saboteur is trying to destroy it. The game's goal is for the driver to get as much happiness value from the customer as possible at the end of the game, while the saboteur aims to reduce the customer's happiness as much as possible.
+
+In order to set up the game, players must choose their characters and receive cards corresponding to their roles. The game will involve the use of two mobile phones. The player will use one phone to scan the cards and use the AR system to find out the happiness value of the passenger corresponding to the card. The other phone will scan the green track (cards) to show the game's progress and record the passengers' happiness value at the same time.
+
+The game involves two types of game cards: Advantage cards and Disadvantage cards. Advantage cards are played by the driver and will increase the customer's happiness to ensure a successful train ride. The disadvantage card, on the other hand, is played by the saboteur and will reduce the customer's happiness to try and sabotage the train ride. In addition, players can use wildcards to enhance their advantage. There are three varieties of wild cards, and each player has the same number of wild cards. These cards can be used to pick up extra cards, remove random opponents' cards, or erase all of their opponents' cards for that turn. If the saboteur manages to reduce the customer's happiness to zero by the end of all rounds, they win the game. Otherwise, the driver wins.
+
+Overall, Train Quest is an exciting and engaging game that requires strategy, memory, and fortune to win. Players must choose their characters and use their cards wisely to improve or destroy the happiness value of the passengers. In addition, the integration of AR in the game can stimulate players' interest and increase their gaming experience.
+
+Train Quest is designed for children. Following this, it includes skill building for essential tasks such as memory and strategy. Similar to card matching games, players must hold the value of each card in their mind, while continuing on with other tasks, strengthening their recollection abilities. As players are competing against each other, they must think ahead to decide when would be best to use their higher value cards, their lower value cards, and their wild cards. The AR element of the game creates novelty, and the fun 3D models add a visual element to keep players engaged and entertained. 
